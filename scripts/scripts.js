@@ -22,3 +22,12 @@ $(document).ready(function(){
     } // End if
   });
 });
+
+//While Loops
+var i = x
+
+while (i<6) {
+  console.log('Times running through the loop x')
+
+  i+++;
+}
